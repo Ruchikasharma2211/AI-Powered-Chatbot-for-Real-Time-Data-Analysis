@@ -1,0 +1,21 @@
+Order ID,Product,Region,Salesperson,Quantity,Price per Unit ($),Order Status
+ORD1693,Tablet,West,Carlos Diaz,2,1424.94,Pending
+ORD5286,Smartwatch,Central,Carlos Diaz,5,1396.61,Completed
+ORD1680,Laptop,Central,Jane Smith,4,617.6,Completed
+ORD7325,Smartwatch,Central,Amir Khan,9,1240.17,Completed
+ORD8404,Headphones,Central,Jane Smith,6,207.31,Pending
+ORD6672,Laptop,East,Amir Khan,10,375.2,Cancelled
+ORD3752,Smartphone,East,Carlos Diaz,6,545.86,Cancelled
+ORD6313,Tablet,North,Sophie Lee,6,1067.24,Completed
+ORD4521,Smartphone,East,John Doe,10,1016.31,Cancelled
+ORD3756,Smartwatch,West,Sophie Lee,10,936.29,Cancelled
+ORD8925,Tablet,Central,Carlos Diaz,8,1117.95,Pending
+ORD1521,Smartphone,Central,Carlos Diaz,7,197.74,Completed
+ORD5849,Camera,South,John Doe,3,830.11,Cancelled
+ORD9909,Smartwatch,East,Amir Khan,7,1153.77,Cancelled
+ORD3283,Tablet,Central,Jane Smith,4,708.69,Pending
+ORD6690,Tablet,South,Carlos Diaz,9,239.4,Cancelled
+ORD7897,Headphones,Central,John Doe,2,608.35,Cancelled
+ORD6821,Laptop,South,Carlos Diaz,2,777.74,Pending
+ORD3163,Smartwatch,East,John Doe,8,909.03,Completed
+ORD3046,Smartphone,Central,John Doe,6,1371.88,Completed
